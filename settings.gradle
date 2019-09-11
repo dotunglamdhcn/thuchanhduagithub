@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='thuc hành đưa code lên github'
